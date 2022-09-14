@@ -1,0 +1,22 @@
+.promo_hobby {
+    margin: 20px 40% 0px 20%;
+    border-radius: 10%;
+    background-color: lightgray;
+}
+
+.promo_hobby_info {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 20px 40px 40px 40px;
+}
+
+.promo_hobby_info h1 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.promo_hobby_info li {
+    padding-bottom: 10px;
+}

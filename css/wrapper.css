@@ -1,0 +1,44 @@
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.wrapper_img img {
+    box-shadow: 10px 0px 6px 0px rgba(0, 0, 0, 0.5);
+    border-radius: 15%;
+    width: 200px;
+    height: 200px;
+    margin-right: 50px;
+}
+
+.wrapper_info h1 {
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+.wrapper_info i {
+    margin-bottom: 20px;
+}
+
+.wrapper_info h4 {
+    font-size: medium;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.w1 {
+    display: block;
+}
+
+.wrapper_info a {
+    color: black;
+    text-decoration: none;
+}
+
+.wrapper_info a:hover {
+    color: red;
+    font-size: 20px;
+    transition: 1s all;
+}
